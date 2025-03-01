@@ -1,5 +1,4 @@
-# Zara-Website
-![Screenshot](C:/Users/91755/Pictures/Screenshots/Screenshot_833.png)
-
+# Zara-Website 
+![Zara 1.jpeg](Zara 1.jpeg)
 
 
