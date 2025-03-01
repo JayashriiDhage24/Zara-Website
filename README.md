@@ -1,4 +1,3 @@
 # Zara-Website 
-![Zara1.png](Zara1.png)
-
+![zara.png](zara.png)
 
